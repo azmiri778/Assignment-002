@@ -47,6 +47,9 @@ img {
 div h2 {
   font-size: 60px;
   color: black;
+  position: relative;
+  left:auto;
+  top: 0;
 }
 .input1 {
   height: 50px;

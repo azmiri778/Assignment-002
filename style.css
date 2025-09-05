@@ -73,7 +73,7 @@ h2{
 
   position: absolute;
   top: 200px;
-  left: 260px;
+  left: 300px;
 }
 .p1 span {
   color: rgb(92, 4, 34);
@@ -85,8 +85,8 @@ h2{
   padding: 20px;
   border-radius: 40px;
   font-size: 40px;
-  position: relative;
-  top: 340px;
+  position: absolute;
+  top: 330px;
   left: 200px;
 }
 img {

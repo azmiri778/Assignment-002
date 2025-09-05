@@ -28,11 +28,11 @@ h2 {
   position: absolute;
 }
 .container > div {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
   color: whitesmoke;
   background-color: rgb(74, 45, 67);
-  font-size: 30px;
+  font-size: 20px;
   border-radius: 20px;
   position: relative;
   top: 350px;
@@ -50,13 +50,13 @@ img {
 }
 div h4 {
   position: absolute;
-  top: 73px;
-  left: 60px;
+  top: 60px;
+  left:55px;
 }
 div h5 {
   position: absolute;
-  top: 73px;
-  left: 40px;
+  top: 60px;
+  left: 35px;
 }
 footer {
   color: lightgrey;
