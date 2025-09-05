@@ -13,50 +13,50 @@ p {
   margin: 0;
   padding: 0;
 }
-h2{
-        font-size:60px;
-        position:relative;
-        top: 200px;
-        left: 300px;
+h2 {
+  font-size: 60px;
+  position: relative;
+  top: 200px;
+  left: 300px;
 }
-.container{
-        display: flex;
-        flex-direction:row;
-        font-size: 20px;
-        font-weight: bold;
-        gap:100px;
-        position: absolute;
+.container {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  font-weight: bold;
+  gap: 100px;
+  position: absolute;
 }
 .container > div {
-        height: 200px;
-        width: 200px;
-        color: whitesmoke;
-        background-color:rgb(74, 45, 67);
-        font-size: 30px;
-        border-radius: 20px;
-        position:relative;
-        top:350px;
-        left:300px;
-        text-align: center;
-        align-items: center;
+  height: 200px;
+  width: 200px;
+  color: whitesmoke;
+  background-color: rgb(74, 45, 67);
+  font-size: 30px;
+  border-radius: 20px;
+  position: relative;
+  top: 350px;
+  left: 300px;
+  text-align: center;
+  align-items: center;
 }
-img{
-        position: absolute;
-        top:200px;
-        right:7rem;
-        height: 400px;
-        width:400px;
-        border-radius:20px;
+img {
+  position: absolute;
+  top: 200px;
+  right: 7rem;
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
 }
-div h4{
-        position: absolute;
-        top:73px;
-        left: 60px;
+div h4 {
+  position: absolute;
+  top: 73px;
+  left: 60px;
 }
-div h5{
-        position: absolute;
-        top: 73px;
-        left:40px ;
+div h5 {
+  position: absolute;
+  top: 73px;
+  left: 40px;
 }
 footer {
   color: lightgrey;
@@ -76,13 +76,3 @@ footer span {
   position: relative;
   text-align: right;
 }
-
-
-
-
-
-
-
-
-
-
