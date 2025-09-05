@@ -31,8 +31,8 @@ img {
   position: absolute;
   top: 260px;
   right: 7rem;
-  height: 450px;
-  width: 450px;
+  height: 400px;
+  width: 400px;
   border-radius: 20px;
 }
 .contact {
@@ -81,6 +81,24 @@ div h2 {
   padding: 15px 30px;
   color: rgb(125, 20, 20);
   font-size: 20px;
+}
+footer {
+  color: lightgrey;
+  background-color: rgb(51, 30, 30);
+  margin: 0;
+  padding: 20px;
+}
+footer span {
+  color: rgb(183, 34, 114);
+}
+.p2 {
+  position: relative;
+  top: 20px;
+  text-align: left;
+}
+.p3 {
+  position: relative;
+  text-align: right;
 }
 
 

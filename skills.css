@@ -1,8 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
 h2{
         font-size:60px;
         position:relative;
         top: 200px;
-        left: 400px;
+        left: 300px;
 }
 .container{
         display: flex;
@@ -21,7 +36,7 @@ h2{
         border-radius: 20px;
         position:relative;
         top:350px;
-        left:400px;
+        left:300px;
         text-align: center;
         align-items: center;
 }
@@ -29,8 +44,8 @@ img{
         position: absolute;
         top:200px;
         right:7rem;
-        height: 450px;
-        width:450px;
+        height: 400px;
+        width:400px;
         border-radius:20px;
 }
 div h4{
@@ -42,6 +57,24 @@ div h5{
         position: absolute;
         top: 73px;
         left:40px ;
+}
+footer {
+  color: lightgrey;
+  background-color: rgb(51, 30, 30);
+  margin: 0;
+  padding: 20px;
+}
+footer span {
+  color: rgb(183, 34, 114);
+}
+.p2 {
+  position: relative;
+  top: 20px;
+  text-align: left;
+}
+.p3 {
+  position: relative;
+  text-align: right;
 }
 
 
